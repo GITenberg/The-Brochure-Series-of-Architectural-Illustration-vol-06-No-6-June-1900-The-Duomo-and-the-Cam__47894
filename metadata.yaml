@@ -1,4 +1,8 @@
 _repo: The-Brochure-Series-of-Architectural-Illustration-vol-06-No-6-June-1900-The-Duomo-and-the-Cam__47894
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47894-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47894#The-Brochure-Series-of-Architectural-Illustration-vol-06-No-6-June-1900-The-Duomo-and-the-Cam_
 gutenberg_issued: '2015-01-06'
 gutenberg_type: Text
 identifiers:
